@@ -26,6 +26,9 @@ https://chostv.mobie.in/choos/sports/euro1.m3u8
 #EXTINF:-,EUROSPORTS 2 [HD]
 https://chostv.mobie.in/choos/sports/euro2.m3u8
 
+#EXTINF:-,ASTRO ARENA
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
 #EXTINF:-1,SMTV Sumedang
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
 
@@ -194,4 +197,33 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,PLUTO TV
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
 
+# iptv.tvmalaysia.cc:80
 
+#EXTINF:-1 tvg-id="warnertv.my" tvg-name="Warner TV" tvg-logo="http://tvmalaysia.cc:80/images/fe971dedf93c15bae582eea20afa0a7f.png" group-title="tvmalaysia",Warner TV
+http://iptv.tvmalaysia.cc:80/624850/624850/6848
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="tvmalaysia",Disney Channel HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7196
+
+#EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="tvmalaysia",Aniplus HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6697
+
+#EXTINF:-1 tvg-id="hgtv.id" tvg-name="HGTV" tvg-logo="http://tvmalaysia.cc:80/images/4fbf759d882bba8bf2f629a61df99878.png" group-title="tvmalaysia",HGTV
+http://iptv.tvmalaysia.cc:80/624850/624850/7076
+
+#EXTINF:-1 tvg-id="axnhd.id" tvg-name="AXN" tvg-logo="http://tvmalaysia.cc:80/images/7890c2461a7545adcc4b2050f334a152.jpg" group-title="tvmalaysia",AXN
+http://iptv.tvmalaysia.cc:80/624850/624850/7223
+
+#EXTINF:-1 tvg-id="foxcrime.id" tvg-name="Fox Crime" tvg-logo="http://tvmalaysia.cc:80/images/956e6c6e1bf91476f99d573849bbe706.jpg" group-title="tvmalaysia",Fox Crime
+http://iptv.tvmalaysia.cc:80/624850/624850/7225
+
+#EXTINF:-1 tvg-id="foxhd.id" tvg-name="FOX" tvg-logo="http://tvmalaysia.cc:80/images/fb4a91d4d15cd876e63f4b83a35b2ce4.png" group-title="tvmalaysia",FOX
+http://iptv.tvmalaysia.cc:80/624850/624850/7227
+
+#EXTINF:-1 tvg-id="foxlife.id" tvg-name="Fox Life" tvg-logo="http://tvmalaysia.cc:80/images/d6161eaf1dfd7140aac03dcdc9f87b3e.png" group-title="tvmalaysia",Fox Life
+http://iptv.tvmalaysia.cc:80/624850/624850/7228
+
+#EXTINF:-1 tvg-id="kix.id" tvg-name="KiX" tvg-logo="http://tvmalaysia.cc:80/images/c9d2b55dea34704104efde328f0436a3.png" group-title="tvmalaysia",KiX
+http://iptv.tvmalaysia.cc:80/624850/624850/7229
+
+#EXTINF:-1 tvg-id="ccm.id" tvg-name="Celestial Classic Movies." tvg-logo="http://tvmalaysia.cc:80/images/895f475aeff0da729ad1e5f21a450875.jpg" group-title="tvmalaysia",Celestial Classic Movies.

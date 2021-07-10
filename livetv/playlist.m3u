@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="DuniaLain" tvg-id="General" group-title="HOROR" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunialain
+http://topwin-tv.my.id/2/master.m3u8?id=dunialain
+
+#EXTINF:-1 tvg-name="SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1617244496-.png",Champions 1
+http://topwin-tv.my.id/2/master.m3u8?id=champion1
+
+#EXTINF:-1 tvg-name="SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1617244555-.png",Champions 2
+http://topwin-tv.my.id/2/master.m3u8?id=champion2
+
+#EXTINF:-1 tvg-name="SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",SPORT TV 1 (Live)
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",SPORT TV 2 (Live)
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="https://i.ibb.co/njZRkzP/s3.png",SPORT TV 3 (Live)
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1,SMTV Sumedang
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1,Citra Drama
+http://topwin-tv.my.id/2/master.m3u8?id=cdrama
+
+#EXTINF:-1,Warner
+http://topwin-tv.my.id/2/master.m3u8?id=warner
+
+#EXTINF:-1,Blue ant entertainmet
+http://topwin-tv.my.id/2/master.m3u8?id=blueant
+
+#EXTINF:-1,Blue ant extreme
+http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
+
+#EXTINF:-1,AXN
+http://topwin-tv.my.id/2/master.m3u8?id=axn
+
+#EXTINF:-1,Chinese Drama
+http://topwin-tv.my.id/2/master.m3u8?id=chinesedrama
+
+#EXTINF:-1,KiX
+http://topwin-tv.my.id/2/master.m3u8?id=kix
+
+#EXTINF:-1,Waku Waku Japan
+http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
+
+#EXTINF:-1,K+
+http://topwin-tv.my.id/2/master.m3u8?id=kplus
+
+#EXTINF:-1,Sony GEM TV
+http://topwin-tv.my.id/2/master.m3u8?id=sgem
+
+#EXTINF:-1,Sony One
+http://topwin-tv.my.id/2/master.m3u8?id=sone
+
+#EXTINF:-1,Outdoor CHANNEL
+http://topwin-tv.my.id/2/master.m3u8?id=outdoor
+
+#EXTINF:-1,KBS World
+http://topwin-tv.my.id/2/master.m3u8?id=kbsworld
+
+#EXTINF:-1,ABC Australia
+http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
+
+#EXTINF:-1,Lifetime
+http://topwin-tv.my.id/2/master.m3u8?id=lifetime
+
+#EXTINF:-1,Entertainment: History
+http://topwin-tv.my.id/2/master.m3u8?id=history
+
+#EXTINF:-1,Ctiasia
+http://topwin-tv.my.id/2/master.m3u8?id=ctiasia
+

@@ -94,3 +94,15 @@ http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 
 #EXTINF:-1,HBO [ID]
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
+
+#EXTINF:-1,HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+
+#EXTINF:-1,ANIMAX
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1,DISNEY CHANEL
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
+#EXTINF:-1,NAT GEO
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8

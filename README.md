@@ -1,10 +1,1 @@
-# LIVETV
-
-Internet Protocol television (IPTV) is the delivery of television content over Internet Protocol (IP) networks. 
-
-## Usage
-
-To watch IPTV you just need to paste this link `#` to any player with support M3U-playlists.
-
-![UQUQU TV](#)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75901188-c6ee-4145-9a88-023de59dd76d/deploy-status)](https://app.netlify.com/sites/uququtv/deploys)

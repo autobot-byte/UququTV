@@ -164,7 +164,7 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1,MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1,BLUE ANT [Ser2]
+#EXTINF:-1,BLUE ANT [ID]
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1,BLUE ANT EXTREAM [Ser2]
@@ -173,25 +173,25 @@ http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/
 #EXTINF:-1,LIFE
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
-#EXTINF:-1,THRILL
+#EXTINF:-1,THRILL [ID]
 http://rr2.dens.tv/s/s34/01.m3u8
 
-#EXTINF:-1,ZEE BIOSKOP
+#EXTINF:-1,ZEE BIOSKOP [ID]
 http://rr2.dens.tv/s/s32/01.m3u8
 
-#EXTINF:-1,FOX FAMILY MOVIE
+#EXTINF:-1,FOX FAMILY MOVIE [TH]
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 
-#EXTINF:-1,FOX LIFE
+#EXTINF:-1,FOX LIFE [ID]
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
-#EXTINF:-1,DISCOVERY ASIA
+#EXTINF:-1,DISCOVERY ASIA [TH]
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1,DISCOVERY
+#EXTINF:-1,DISCOVERY [TH]
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1,BLACK CINEMA
+#EXTINF:-1,PLUTO TV
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
 
 

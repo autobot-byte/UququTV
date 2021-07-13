@@ -98,29 +98,30 @@ http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s
 #EXTINF:-1,TVRI [HD]
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
-#EXTINF:-1,INDOSIAR HD
+#EXTINF:-0,INDOSIAR HD
 http://chostv.mobie.in/files/iptv/indosiar.m3u8
+https://cdn10jtedge.useetv.com/dass/133/indosiar/manifest_wuseetv.mpd?encp=U-VZhYxMkjlLenogEKPYjw&uid=&expp=1626209434
 
 #EXTINF:-1,TV ONE
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 
 #EXTINF:-1,TRANS 7
-http://topwin-tv.my.id/2/master.m3u8?id=trans7
+https://cdn10jtedge.useetv.com/joss/133/trans7/chunklist_w1398428802_b1344100_sleng.m3u8?enc=XzqoLVW1hWxBimXHwyZPSg&uid=&exp=1626209435
+
+#EXTINF:-1,TRANS 7 [LIVE GP]
+https://streaming.useetv.com/joss/
 
 #EXTINF:-1,MNC TV
-http://topwin-tv.my.id/2/master.m3u8?id=mnc
+http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1,RCTI
-http://topwin-tv.my.id/2/master.m3u8?id=rcti
-
-#EXTINF:-1,INDOSIAR
-http://topwin-tv.my.id/2/master.m3u8?id=indosiar
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 
 #EXTINF:-1,GTV
-http://topwin-tv.my.id/2/master.m3u8?id=gtv
+http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1,TRANS TV
-http://topwin-tv.my.id/2/master.m3u8?id=transtv
+http://dituduhmaling.xyz/US33T4/transtv.m3u8
 
 #EXTINF:-1,CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -130,6 +131,9 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1,KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+#EXTINF:-1,iNEWS
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
 
 #EXTINF:-1,BANDUNG TV
 http://202.150.153.254/bandungtv720p.m3u8
@@ -238,16 +242,24 @@ http://iptvstream.xyz:8080/live/Mcnsi/7210db0d/165075.ts
 #EXTINF:-1 tvg-logo="#" group-title="KIDS TV",DISNEY XD [FHD]
 http://iptv.tvmalaysia.cc:80/624850/624850/7198
 
-#
-
-#EXTINF:-1,HGTV
+#KNOWLEDGE
+#EXTINF:-1 tvg-logo="#" group-title="KNOWLEDGE",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=hgtv
 
 #EXTINF:-1,NAT GEO
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 
 #EXTINF:-1,NAT GEO [ID]
 http://iptvstream.xyz:8080/live/Mcnsi/7210db0d/165094.ts
+
+#EXTINF:-0,NAT GEO PEOPLE
+http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
+
+#EXTINF:-0,NAT GEO WILD
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 
 #EXTINF:-1,ANIMAL PLANET
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
@@ -279,9 +291,14 @@ http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1,DISCOVERY ASIA [TH]
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1,DISCOVERY [TH]
+#EXTINF:-0,DISCOVERY [TH&ID]
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=disco
 
+#EXTINF:-0,HISTORY [ID]
+http://topwin-tv.my.id/2/master.m3u8?id=history
+
+# END KNOWLEDGE #
 
 # iptv.tvmalaysia.cc:80
 

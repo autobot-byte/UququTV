@@ -2,34 +2,6 @@
 #EXTINF:-1 tvg-name="DuniaLain" tvg-id="General" group-title="HOROR" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunialain
 http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 
-
-======== EURO 2020 ==========
-http://iptv.tvmalaysia.cc:80/624850/624850/8885
-
-#EXTINF:-1,LIVE EURO [1]
-http://iptv.tvmalaysia.cc:80/624850/624850/8911
-
-#EXTINF:-1,LIVE EURO [2]
-http://iptv.tvmalaysia.cc:80/624850/624850/8912
-
-#EXTINF:-1,LIVE EURO [3]
-http://iptv.tvmalaysia.cc:80/624850/624850/8914
-
-#EXTINF:-1,LIVE EURO [4]
-http://iptv.tvmalaysia.cc:80/624850/624850/8915
-
-#EXTINF:-1,LIVE EURO [5]
-http://iptv.tvmalaysia.cc:80/624850/624850/8917
-
-#EXTINF:-1,LIVE EURO [6]
-http://iptv.tvmalaysia.cc:80/624850/624850/8918
-
-#EXTINF:-1,LIVE EURO [7]
-http://iptv.tvmalaysia.cc:80/624850/624850/8919
-
-#EXTINF:-1,LIVE EURO [8]
-http://iptv.tvmalaysia.cc:80/624850/624850/8920
-
 # LIVE VIP SPORTS
 
 #EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1617244496-.png",Champions 1
@@ -65,17 +37,24 @@ https://chostv.mobie.in/choos/sports/euro2.m3u8
 #EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",ASTRO SUPERSPORTS [HD]
 http://iptv.tvmalaysia.cc:80/624850/624850/6708
 
-#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",beIN SPORTS
+#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",beIN SPORTS [MY]
 http://iptv.tvmalaysia.cc:80/624850/624850/6749
 
-#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",beIN MAX
+#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",beIN MAX 1 [MY]
 http://iptv.tvmalaysia.cc:80/624850/624850/6748
 
-#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",beIN MAX [2]
+#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",beIN MAX 2 [MY]
 http://iptv.tvmalaysia.cc:80/624850/624850/7195
 
 #EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="", GOLF CHANEL [HD]
 http://iptv.tvmalaysia.cc:80/624850/624850/6796
+
+#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="", beIN SPORTS 1 [ID]
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62286.ts
+
+#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="", beIN SPORTS 2 [ID]
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62287.ts
+
 
 
 # VIP INDONESIA

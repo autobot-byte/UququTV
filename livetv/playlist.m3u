@@ -46,27 +46,26 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6748
 #EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",beIN MAX 2 [MY]
 http://iptv.tvmalaysia.cc:80/624850/624850/7195
 
-#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="", GOLF CHANEL [HD]
+#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",GOLF CHANEL [HD]
 http://iptv.tvmalaysia.cc:80/624850/624850/6796
 
-#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="", beIN SPORTS 1 [ID]
+#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",beIN SPORTS 1 [ID]
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62286.ts
 
-#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="", beIN SPORTS 2 [ID]
+#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",beIN SPORTS 2 [ID]
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62287.ts
 
 
 
 # VIP INDONESIA
 
-#EXTINF:-1,SMTV Sumedang
-http://122.248.43.138:1935/ch25/myStream/live.m3u8
-
-#EXTINF:-1,ANTV
+#EXTINF:-0,ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-
-#EXTINF:-1,ANTV [2]
 http://chostv.mobie.in/files/iptv/antv.m3u8
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62297.ts
+
+#EXTINF:-1,SCTV
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62193.ts
 
 #EXTINF:-1,RTV
 http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
@@ -85,22 +84,16 @@ https://cdn10jtedge.useetv.com/dass/133/indosiar/manifest_wuseetv.mpd?encp=U-VZh
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 
 #EXTINF:-1,TRANS 7
-https://cdn10jtedge.useetv.com/joss/133/trans7/chunklist_w1398428802_b1344100_sleng.m3u8?enc=XzqoLVW1hWxBimXHwyZPSg&uid=&exp=1626209435
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62187.ts
 
-#EXTINF:-1,TRANS 7 [LIVE GP]
-https://streaming.useetv.com/joss/
-
-#EXTINF:-1,MNC TV
-http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,TRANS TV
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62186.ts
 
 #EXTINF:-1,RCTI
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62199.ts
 
 #EXTINF:-1,GTV
 http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1,TRANS TV
-http://dituduhmaling.xyz/US33T4/transtv.m3u8
 
 #EXTINF:-1,CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -112,15 +105,45 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 #EXTINF:-1,iNEWS
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62235.ts
+
+#EXTINF:-1,MNCTV
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62214.ts
+
+#EXTINF:-1,MNC SHOP SMART
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62219.ts
+
+#EXTINF:-1,MNC SHOP TRENDY
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62218.ts
+
+#EXTINF:-1,MNC NEWS
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62220.ts
+
+#EXTINF:-1,MNC Entertainment
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62221.ts
+
+#EXTINF:-1,MNC SPORTS
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62216.ts
+
+#EXTINF:-1,MUSIC CHANEL
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62212.ts
 
 #EXTINF:-1,BANDUNG TV
 http://202.150.153.254/bandungtv720p.m3u8
 
+#EXTINF:-1,SMTV Sumedang
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+
+#EXTINF:-1,MUSLIM TV
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62241.ts
+
+##
+
 #EXTINF:-1,Citra Drama
 http://topwin-tv.my.id/2/master.m3u8?id=cdrama
 
-#EXTINF:-1,Warner
+#EXTINF:-0,WARNER TV ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62142.ts
 http://topwin-tv.my.id/2/master.m3u8?id=warner
 
 #EXTINF:-1,Blue ant entertainmet
@@ -162,7 +185,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
 #EXTINF:-1,Lifetime
 http://topwin-tv.my.id/2/master.m3u8?id=lifetime
 
-#EXTINF:-1,Entertainment: History
+#EXTINF:-1,History
 http://topwin-tv.my.id/2/master.m3u8?id=history
 
 #EXTINF:-1,Ctiasia
@@ -189,10 +212,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Policy=e
 #EXTINF:-1,HBO SIGNATURE
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=XPcUvt22cPfWlaTvZIFVTopWXz-gcftvZHtYimxZfYl90uif8HFUSu8UFy04VNbRlMKlUwPCfBP-04dw8nM~t4f~7VB5b1L12FsphQy-0DUoRV5W9mF8mm5rab5xFaBbGChVFkvIqfNzae~6zIMAE0LpPukmSYrN-jozArwLO0tTTNpAj0IGM9cHikREQYA-yK5TYA18OvpTsC4MxAbtmYiKnPmQIsYDqgvLKhiQRwCpJRfTWQmkdrOG3wE~B~8htVFuQ9OxukjuiofDQGQPYkp5hP6H2SYWhxNFzS~GBBKAEieJk4gCb7~rXSIaQ9h9OMubcpC4vx9h5S~Sj1-Img__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
-#EXTINF:-1,DISNEY JUNIOR [ID]
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+#EXTINF:-1 tvg-logo="#" group-title="",BLACK CINEMA
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
 
-# KIDS TV
+## KIDS TV
 
 #EXTINF:-1 tvg-logo="#" group-title="KIDS TV",KIDS TV
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
@@ -200,82 +223,110 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-logo="#" group-title="KIDS TV",MY KIDS
 http://rr.dens.tv/h/h98/index.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="KIDS TV",SPACETOON [ID]
+#EXTINF:-1 tvg-logo="#" group-title="KIDS TV",SPACETOON ID
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/horee.png" group-title="KIDS TV",Horee
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/horee.png" group-title="KIDS TV",HOREE
 http://topwin-tv.my.id/2/master.m3u8?id=horee
 
 #EXTINF:-1 tvg-logo="#" group-title="KIDS TV",Dreamworks
-http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62150.ts
 
-#EXTINF:-1 tvg-logo="#" group-title="KIDS TV",PLUTO TV
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
-
-#EXTINF:-1 tvg-logo="#" group-title="KIDS TV",ANIMAX
+#EXTINF:-0 tvg-logo="#" group-title="KIDS TV",ANIMAX ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62298.ts
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="#" group-title="KIDS TV",DISNEY CHANEL
+#EXTINF:-0 tvg-logo="#" group-title="KIDS TV",DISNEY CHANEL
 http://iptvstream.xyz:8080/live/Mcnsi/7210db0d/165075.ts
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62267.ts
 
 #EXTINF:-1 tvg-logo="#" group-title="KIDS TV",DISNEY XD [FHD]
 http://iptv.tvmalaysia.cc:80/624850/624850/7198
 
-#KNOWLEDGE
-#EXTINF:-1 tvg-logo="#" group-title="KNOWLEDGE",HGTV
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-http://dituduhmaling.xyz/US33T4/hgtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=hgtv
+#EXTINF:-0 tvg-logo="#" group-title="KIDS TV",DISNEY JUNIOR ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62266.ts
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
-#EXTINF:-1,NAT GEO
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+#EXTINF:-0 tvg-logo="#" group-title="KIDS TV",BOOMERANG 1 ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62281.ts
 
-#EXTINF:-1,NAT GEO [ID]
-http://iptvstream.xyz:8080/live/Mcnsi/7210db0d/165094.ts
+#EXTINF:-0 tvg-logo="#" group-title="KIDS TV",CARTOON NETWORK ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62279.ts
 
-#EXTINF:-0,NAT GEO PEOPLE
-http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
+#EXTINF:-0 tvg-logo="#" group-title="KIDS TV",ANIPLUS ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62158.ts
 
-#EXTINF:-0,NAT GEO WILD
-http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+#EXTINF:-0 tvg-logo="#" group-title="KIDS TV",MIAOMI ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62223.ts
 
-#EXTINF:-1,ANIMAL PLANET
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+## RANDOM
 
 #EXTINF:-1,MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1,BLUE ANT [ID]
+#EXTINF:-1,BLUE ANT ID
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1,BLUE ANT EXTREAM [ID]
+#EXTINF:-1,BLUE ANT EXTREAM ID
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1,LIFE
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
-#EXTINF:-1,THRILL [ID]
+#EXTINF:-1,THRILL ID
 http://rr2.dens.tv/s/s34/01.m3u8
 
-#EXTINF:-1,ZEE BIOSKOP [ID]
+#EXTINF:-1,ZEE BIOSKOP ID
 http://rr2.dens.tv/s/s32/01.m3u8
 
-#EXTINF:-1,FOX FAMILY MOVIE [TH]
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1,FOX MOVIES ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62251.ts
 
-#EXTINF:-1,FOX LIFE [ID]
+#EXTINF:-1,FOX MOVIES ACTION ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62250.ts
+
+#EXTINF:-1,FOX CRIME ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62254.ts
+
+#EXTINF:-0,FOX LIFE ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62252.ts
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
-#EXTINF:-1,DISCOVERY ASIA [TH]
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FOX ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62255.ts
 
-#EXTINF:-0,DISCOVERY [TH&ID]
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FOX SPORTS 1 ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62248.ts
+
+## KNOWLEDGE
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",DISCOVERY CHANEL ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62268.ts
 http://topwin-tv.my.id/2/master.m3u8?id=disco
 
-#EXTINF:-0,HISTORY [ID]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="KNOWLEDGE",HISTORY ID
 http://topwin-tv.my.id/2/master.m3u8?id=history
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62240.ts
+
+#EXTINF:-0 tvg-logo="https://www.vhv.rs/dpng/d/477-4772256_hgtv-logo-png-transparent-png.png" group-title="KNOWLEDGE",HGTV ID
+http://topwin-tv.my.id/2/master.m3u8?id=hgtv
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/national-geographic-channel-vector-logo-free-11574068807oqghroniys.png" group-title="KNOWLEDGE",NAT GEO ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62266.ts
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+http://iptvstream.xyz:8080/live/Mcnsi/7210db0d/165094.ts
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" group-title="KNOWLEDGE",NAT GEO PEOPLE ID
+http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
+
+#EXTINF:-1 tvg-logo="https://cosmonerd.com.br//uploads/2017/09/nat-geo-wild.png" group-title="KNOWLEDGE",NAT GEO WILD ID
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="KNOWLEDGE",ANIMAL PLANET
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62299.ts
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 # END KNOWLEDGE #
 

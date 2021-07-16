@@ -64,14 +64,16 @@ http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 http://chostv.mobie.in/files/iptv/antv.m3u8
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62297.ts
 
-#EXTINF:-1,SCTV
+#EXTINF:-0,SCTV
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62193.ts
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1,RTV
 http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
-#EXTINF:-1,NET TV
+#EXTINF:-0,NET TV
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1,TVRI [HD]
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
@@ -79,8 +81,10 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-0,INDOSIAR HD
 http://chostv.mobie.in/files/iptv/indosiar.m3u8
 https://cdn10jtedge.useetv.com/dass/133/indosiar/manifest_wuseetv.mpd?encp=U-VZhYxMkjlLenogEKPYjw&uid=&expp=1626209434
+http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/02.m3u8
 
-#EXTINF:-1,TV ONE
+#EXTINF:-0,TV ONE
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 
 #EXTINF:-1,TRANS 7
@@ -92,7 +96,8 @@ http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62186.ts
 #EXTINF:-1,RCTI
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62199.ts
 
-#EXTINF:-1,GTV
+#EXTINF:-0,GTV
+http://eroz84.wap.sh/local/gtv.m3u8
 http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1,CNN INDONESIA
@@ -191,22 +196,26 @@ http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1,Ctiasia
 http://topwin-tv.my.id/2/master.m3u8?id=ctiasia
 
-#EXTINF:-1,ASTRO AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream01/streamPlaylist.m3u8
-
-#EXTINF:-1,HBO
+#EXTINF:-1,HBO [MY]
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1,HBO HITS
+#EXTINF:-1,HBO HITS ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62173.ts
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
-#EXTINF:-1,HBO FAMILY
+#EXTINF:-1,HBO FAMILY ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62172.ts
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=WmAH4TlOSLquNm9os2qzNm9DI35GAceSQ9ac7CPmWkZ~rUNr8reKyLradmMKuHYQF4d68HmOwVGF5WM2rsn3POJDe4t8wR9xnsIITgslI9wWGjpUWOGEeDf-g88kTUoeDwi-YwlW4MdgKMGSa~OpdDm19XygFpit2IlmpZi3KtBl7p~vxrlx30SjOdC06Bj6vC~aUX5bFO2~L9osDwlhREJytLYDfPN8hf2w8T3vnEsjoYuueMvGZUk0nxDKXj3BMrHv2C-w8Hfx83PIyJ5Qp1dIfWBXXGmOBELzvyh7f04G0gLWr8I-mS6yQDG-v~ON5CnO0FmloihQtCaEaABUIg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
-#EXTINF:-1,HBO [ID]
+#EXTINF:-1,HBO ID
+https://dl.dropboxusercontent.com/s/8vsk5mh6hhab2x2/01_trinity_hbo.m3u8?dl=0
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
 
-#EXTINF:-1,RED HBO
+#EXTINF:-1,HBO MULTI SUB
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+
+#EXTINF:-1,HBO RED ID
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62171.ts
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vUkVELyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=bhHDWw2rtg3g8HcPY4GGts3a-i9X1T4XAyTgQok6NwW8yjv4fhEYKcRSj2cIBbWS~Lyo0Ktw4H168uw6YzW8g1Eu~GJr~6f90irc6arwWXE9kN0DbRHmMEVtT5HFKoKy0Lr5BxeDYoxocKhCf5zpja~tmaBwF91BL4qTIt60g00Jjm~WhyIBDdkRA97WWd93DN0ABB-FmEGHFJlrtX9WuZaJ8n0efQUUZi7JTKN-YUpPR6-nNsTUvVL2stFy54dP5aVBdp1YagaTuQhTOI14PCcnH7tVbPINUPkZn-PvB7UjZQeow-JdZHYEsQVNVGFpUEN0XiWsOf-UAKB5GqnKyA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1,HBO SIGNATURE

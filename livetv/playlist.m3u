@@ -209,6 +209,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Polic
 
 #EXTINF:-0,HBO ID
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62171.ts
 https://dl.dropboxusercontent.com/s/8vsk5mh6hhab2x2/01_trinity_hbo.m3u8?dl=0
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
 http://topwin-tv.my.id/2/master.m3u8?id=hbo
@@ -216,12 +217,16 @@ http://topwin-tv.my.id/2/master.m3u8?id=hbo
 #EXTINF:-1,HBO MULTI SUB
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
-#EXTINF:-1,HBO RED ID
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62171.ts
+#EXTINF:-0,HBO RED ID
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vUkVELyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=bhHDWw2rtg3g8HcPY4GGts3a-i9X1T4XAyTgQok6NwW8yjv4fhEYKcRSj2cIBbWS~Lyo0Ktw4H168uw6YzW8g1Eu~GJr~6f90irc6arwWXE9kN0DbRHmMEVtT5HFKoKy0Lr5BxeDYoxocKhCf5zpja~tmaBwF91BL4qTIt60g00Jjm~WhyIBDdkRA97WWd93DN0ABB-FmEGHFJlrtX9WuZaJ8n0efQUUZi7JTKN-YUpPR6-nNsTUvVL2stFy54dP5aVBdp1YagaTuQhTOI14PCcnH7tVbPINUPkZn-PvB7UjZQeow-JdZHYEsQVNVGFpUEN0XiWsOf-UAKB5GqnKyA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1,HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=XPcUvt22cPfWlaTvZIFVTopWXz-gcftvZHtYimxZfYl90uif8HFUSu8UFy04VNbRlMKlUwPCfBP-04dw8nM~t4f~7VB5b1L12FsphQy-0DUoRV5W9mF8mm5rab5xFaBbGChVFkvIqfNzae~6zIMAE0LpPukmSYrN-jozArwLO0tTTNpAj0IGM9cHikREQYA-yK5TYA18OvpTsC4MxAbtmYiKnPmQIsYDqgvLKhiQRwCpJRfTWQmkdrOG3wE~B~8htVFuQ9OxukjuiofDQGQPYkp5hP6H2SYWhxNFzS~GBBKAEieJk4gCb7~rXSIaQ9h9OMubcpC4vx9h5S~Sj1-Img__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1,HBO CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="",BLACK CINEMA
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=

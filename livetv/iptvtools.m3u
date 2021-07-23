@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_1
+#EXTINF:-1,RCTI
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1,GTV
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/778-global
-#EXTINF:-1,iptvtools_5
+#EXTINF:-1,MNCTV
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/870-mnc
-#EXTINF:-1,iptvtools_33
+#EXTINF:-1,O Channel
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
-#EXTINF:-1,iptvtools_35
+#EXTINF:-1,MAGNA tv
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_ShareExt_b3884000_sleng.m3u8
-#EXTINF:-1,iptvtools_40
+#EXTINF:-1,MY TV
 http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
 #EXTINF:-1,iptvtools_49
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,iptvtools_50
+#EXTINF:-1,TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1,iptvtools_53
+#EXTINF:-1,BERISATU
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1,iptvtools_54
+#EXTINF:-1,THE ID CHANNEL
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
-#EXTINF:-1,iptvtools_56
+#EXTINF:-1,CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1424291134_b192000_sleng.m3u8
-#EXTINF:-1,iptvtools_57
+#EXTINF:-1,CNBC
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-#EXTINF:-1,iptvtools_60
+#EXTINF:-1,TVRI4
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1,iptvtools_61
+#EXTINF:-1,TVRIDKI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 #EXTINF:-1,iptvtools_85
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8

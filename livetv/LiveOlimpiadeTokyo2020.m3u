@@ -10,8 +10,6 @@ http://livepulse2.uk:8080/live/88888/99999/292010.m3u8
 http://livepulse2.uk:8080/live/88888/99999/292009.m3u8
 #EXTINF:-0 group-title="2021 Summer Olympics" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-four-294.png",ZA: SuperSport Variety 4 FHD
 http://livepulse2.uk:8080/live/88888/99999/292008.m3u8
-#EXTINF:-0 group-title="2021 Summer Olympics" tvg-logo="https://cdn.bleacherreport.net/images_root/slides/photos/000/540/229/images_original.jpg?1291311938",ZA: SuperSport WWE FHD
-http://livepulse2.uk:8080/live/88888/99999/292007.m3u8
 
 # RANDOM country
 #EXTINF:-1 tvg=id="TVRI.ID" tvg-name="TVRI" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2021/07/16/tvri-livejpg-20210716015852.jpg" group-title="2021 Summer Olympics",TVRI

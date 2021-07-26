@@ -114,3 +114,28 @@ http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="RandomXXX",Visit-X TV (360p)
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
+
+# Update 26 July 2021
+
+#EXTINF:-1,RANDOM XXX_1
+http://185.97.150.19:8082/155
+#EXTINF:-1,RANDOM XXX_2
+http://185.97.150.19:8082/156
+#EXTINF:-1,RANDOM XXX_3
+http://185.97.150.19:8082/157
+#EXTINF:-1,EROX HD
+http://185.97.150.19:8082/158
+#EXTINF:-1,Мисс Русская Ночь
+http://185.97.150.19:8082/159
+#EXTINF:-1,RANDOM XXX_4
+http://185.97.150.19:8082/360
+#EXTINF:-1,O-La-La
+http://185.97.150.19:8082/361
+#EXTINF:-1,ERO XXX HD
+http://185.97.150.19:8082/362
+#EXTINF:-1,Brazzers TV Europe
+http://185.97.150.19:8082/364
+#EXTINF:-1,Redlight HD
+http://185.97.150.19:8082/365
+#EXTINF:-1,Private HD
+http://185.97.150.19:8082/366

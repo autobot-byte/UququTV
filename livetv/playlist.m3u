@@ -23,9 +23,8 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",ASTRO ARENA [HD]
+http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/45899.ts
 http://iptv.tvmalaysia.cc:80/624850/624850/6707
-
-#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",ASTRO ARENA [SD]
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",EUROSPORTS 1 [HD]
@@ -79,6 +78,7 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-0,INDOSIAR HD
+http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/46083.ts
 http://chostv.mobie.in/files/iptv/indosiar.m3u8
 https://cdn10jtedge.useetv.com/dass/133/indosiar/manifest_wuseetv.mpd?encp=U-VZhYxMkjlLenogEKPYjw&uid=&expp=1626209434
 http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/02.m3u8

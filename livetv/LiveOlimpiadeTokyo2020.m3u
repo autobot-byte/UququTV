@@ -22,3 +22,8 @@ http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/45899.ts
 http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/46083.ts
 #EXTINF:-1 tvg-id="Ochannel.ID" tvg-name="OCHANNEL" tvg-country="ID" tvg-language="ID" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/07/ochannel_dc8718a.jpg" group-title="2021 Summer Olympics",[ID] O Channel
 http://topwin-tv.my.id/2/master.m3u8?id=o-channel
+
+#EXTINF:-1 tvg-id="Champion1" tvg-name="Champion1" tvg-country="ID" tvg-language="ID" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/pX8Plgc5jymF2RzWhl1IrJKIC3I=/830x460/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6686/champions-tv-2-cover-fb0307.jpg" group-title="2021 Summer Olympics",[ID] Champion 1
+http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/46099.ts
+#EXTINF:-1 tvg-id="Champion2" tvg-name="Champion1" tvg-country="ID" tvg-language="ID" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/pX8Plgc5jymF2RzWhl1IrJKIC3I=/830x460/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6686/champions-tv-2-cover-fb0307.jpg" group-title="2021 Summer Olympics",[ID] Champion 2
+http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/46100.ts

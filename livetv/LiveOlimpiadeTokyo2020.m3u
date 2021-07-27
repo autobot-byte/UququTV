@@ -16,3 +16,6 @@ http://livepulse2.uk:8080/live/88888/99999/292008.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="2021 Summer Olympics",TV Tokyo
 http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroArena.HD" tvg-name="Astro Arena" tvg-country="my" tvg-language="my" tvg-logo="https://media.thevibes.com/images/uploads/covers/_large/Astro-olympics.jpg" group-title="2021 Summer Olympics",Astro Arena [HD]
+http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/45899.ts

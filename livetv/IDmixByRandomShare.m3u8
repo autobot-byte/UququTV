@@ -224,11 +224,6 @@ http://linkme.team:80/devis/devis/374604
 #EXTINF:-1 tvg-id="" tvg-name="IND✦: ZING" tvg-logo="" group-title="Indonesia",IND✦: ZING
 http://linkme.team:80/devis/devis/374605
 
-# CH Sexy Kpop
-
-#EXTINF:-1 tvg-id="RandomShare" tvg-name="IND✦: Sexy Kpop" tvg-logo="" group-title="KPOP",IND✦: K-POP
-http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
 # LIVE Olympic 2021
 
 #EXTINF:-0 group-title="2021 Summer Olympics" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-291.png",ZA: SuperSport Variety 1 FHD

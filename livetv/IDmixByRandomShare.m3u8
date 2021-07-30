@@ -222,12 +222,12 @@ http://linkme.team:80/devis/devis/374603
 #EXTINF:-1 tvg-id="" tvg-name="IND✦: Zee Cinema" tvg-logo="" group-title="Indonesia",IND✦: Zee Cinema
 http://linkme.team:80/devis/devis/374604
 #EXTINF:-1 tvg-id="" tvg-name="IND✦: ZING" tvg-logo="" group-title="Indonesia",IND✦: ZING
+http://linkme.team:80/devis/devis/374605
 
 # CH Sexy Kpop
 
-#EXTINF:-1 tvg-id="" tvg-name="IND✦: Sexy Kpop" tvg-logo="" group-title="KPOP",IND✦: K-POP
+#EXTINF:-1 tvg-id="RandomShare" tvg-name="IND✦: Sexy Kpop" tvg-logo="" group-title="KPOP",IND✦: K-POP
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-http://srv1.zcast.com.br:1935/kpoptv/kpoptv/playlist.m3u8
 
 # LIVE Olympic 2021
 

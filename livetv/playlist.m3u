@@ -27,6 +27,9 @@ http://alienstreams.fi:7070/staffan.brundin@gmail.com/mZkXfZ8TVW/45899.ts
 http://iptv.tvmalaysia.cc:80/624850/624850/6707
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
+#EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",ASTRO Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
 #EXTINF:-1 tvg-name="VIP.SPORTS" tvg-id="General" group-title="SPORTS" tvg-logo="",EUROSPORTS 1 [HD]
 https://chostv.mobie.in/choos/sports/euro1.m3u8
 
@@ -160,6 +163,9 @@ http://topwin-tv.my.id/2/master.m3u8?id=cdrama
 #EXTINF:-0,WARNER TV ID
 http://linkme.team:80/devis/devis/374602
 http://topwin-tv.my.id/2/master.m3u8?id=warner
+
+#EXTINF:-0,WARNER TV 2
+http://203.154.243.89:11205/
 
 #EXTINF:-1,Blue ant entertainmet
 http://topwin-tv.my.id/2/master.m3u8?id=blueant
@@ -310,23 +316,25 @@ http://rr2.dens.tv/s/s34/01.m3u8
 http://rr2.dens.tv/s/s32/01.m3u8
 
 #EXTINF:-1,FOX MOVIES ID
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62251.ts
+
 
 #EXTINF:-1,FOX MOVIES ACTION ID
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62250.ts
+
 
 #EXTINF:-1,FOX CRIME ID
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62254.ts
+
 
 #EXTINF:-0,FOX LIFE ID
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62252.ts
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
 #EXTINF:-1,FOX ID
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62255.ts
+
 
 #EXTINF:-1,FOX SPORTS 1 ID
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62248.ts
+
+#EXTINF:-1,FOX SPORTS 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 ## KNOWLEDGE
 
@@ -336,17 +344,13 @@ http://topwin-tv.my.id/2/master.m3u8?id=disco
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="KNOWLEDGE",HISTORY ID
 http://topwin-tv.my.id/2/master.m3u8?id=history
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62240.ts
 
 #EXTINF:-0 tvg-logo="https://www.vhv.rs/dpng/d/477-4772256_hgtv-logo-png-transparent-png.png" group-title="KNOWLEDGE",HGTV ID
-http://topwin-tv.my.id/2/master.m3u8?id=hgtv
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/national-geographic-channel-vector-logo-free-11574068807oqghroniys.png" group-title="KNOWLEDGE",NAT GEO ID
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62266.ts
-http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 http://iptvstream.xyz:8080/live/Mcnsi/7210db0d/165094.ts
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" group-title="KNOWLEDGE",NAT GEO PEOPLE ID
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
@@ -355,7 +359,6 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="KNOWLEDGE",ANIMAL PLANET
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62299.ts
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 # END KNOWLEDGE #

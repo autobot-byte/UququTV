@@ -283,6 +283,9 @@ http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62266.ts
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
+#EXTINF:-0 tvg-logo="#" group-title="KIDS TV",DISNEY JUNIOR ID 2
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+
 #EXTINF:-0 tvg-logo="#" group-title="KIDS TV",BOOMERANG 1 ID
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/62281.ts
 
